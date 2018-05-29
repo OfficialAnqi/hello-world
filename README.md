@@ -1,3 +1,3 @@
 # hello-world
 start
-hello there, i am expolring mysefl
+/hello there, i am expolring myself
